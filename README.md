@@ -44,7 +44,10 @@ The reactor design pattern is an event handling pattern for handling service req
 
 ## Screenshot from our project of the server and three clients:
 
-![WhatsApp Image 2022-04-27 at 15 22 51](https://user-images.githubusercontent.com/93916792/165521448-9368c73f-a426-4211-81e9-437a1f5a4ea7.jpeg)
+![WhatsApp Image 2022-06-03 at 17 41 21](https://user-images.githubusercontent.com/93916792/171878358-47090174-1a1b-439f-a1ef-9233408857d9.jpeg)
 
 ## Screenshot from our project of the server and three clients in the Reactor:
+
+![Screenshot from 2022-06-03 17-38-46](https://user-images.githubusercontent.com/93916792/171878392-ae5f6a90-9c07-4bb1-af7b-7ef56079114c.png)
+
 
